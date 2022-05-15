@@ -1,7 +1,7 @@
 package uk.co.senab.photoview.sample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.squareup.picasso.Callback;
 import com.squareup.picasso.Picasso;

@@ -1,7 +1,7 @@
 package uk.co.senab.photoview.sample;
 
 import android.content.Context;
-import android.support.v4.widget.DrawerLayout;
+import androidx.drawerlayout.widget.DrawerLayout;
 import android.view.MotionEvent;
 
 /**
